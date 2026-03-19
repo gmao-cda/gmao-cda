@@ -1,4 +1,4 @@
-## Hi there. Nice to see you ! 👋 
+## Hola! Nice to see you ! 👋 
 
 This was my working account when working for GMAO. All the repos under this account recieve no more updates, and this account is not routinely checked. 
 
